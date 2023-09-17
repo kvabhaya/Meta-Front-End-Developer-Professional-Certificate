@@ -1,0 +1,16 @@
+Outline the tenets of the functional programming and object-oriented programming paradigm
+    4 materials to review
+Practice Quiz: Self review: Build a functional program
+    3 questions
+Practice Quiz: Knowledge check: Introduction to Functional Programming
+    5 questions
+Practice Quiz: Self review: Building an object-oriented program
+    3 questions
+Quiz: Module quiz: Programming Paradigms
+    10 questions
+Use classes and inheritance in OOP in JavaScript
+    2 materials to review
+Practice Quiz: Self review: Building an object-oriented program
+    3 questions
+Quiz: Module quiz: Programming Paradigms
+    10 questions
