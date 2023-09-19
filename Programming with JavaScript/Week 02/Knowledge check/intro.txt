@@ -1,0 +1,15 @@
+Review Learning Objectives
+Review concepts related to your current learning objectives
+
+Practice Quiz: Self review: Creating arrays and objects
+    3 questions
+Quiz: Module quiz: The Building Blocks of a Program
+    10 questions
+Practice Quiz: Self review: Creating arrays and objects
+    3 questions
+Quiz: Module quiz: The Building Blocks of a Program
+    10 questions
+Practice Quiz: Self review: Practicing with functions
+    3 questions
+Quiz: Module quiz: The Building Blocks of a Program
+    10 questions
