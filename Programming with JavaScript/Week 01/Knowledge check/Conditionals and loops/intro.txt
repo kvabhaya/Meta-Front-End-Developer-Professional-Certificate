@@ -1,0 +1,14 @@
+
+
+Practice Quiz: Self Review - Advanced use of operators
+    3 questions
+Practice Quiz: Knowledge check: Welcome to Programming
+    7 questions
+Practice Quiz: Self review: Practice conditional statements
+    3 questions
+Practice Quiz: Self review: Repetitive tasks with loops
+    4 questions
+Practice Quiz: Self review: Working with conditionals and loops
+    3 questions
+Quiz: Module quiz: Introduction to JavaScript
+    10 questions
